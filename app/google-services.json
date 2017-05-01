@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1040373287854",
+    "firebase_url": "https://databasefirebase-bb465.firebaseio.com",
+    "project_id": "databasefirebase-bb465",
+    "storage_bucket": "databasefirebase-bb465.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040373287854:android:5742e0c1924c9f91",
+        "android_client_info": {
+          "package_name": "com.unam.falv.databasefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040373287854-k627q2k4je1mbq6vtl0f9cm91rltum96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHgFJLtOmEBMbGRvLhXPOnVxZl56xuGMY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
